@@ -5,5 +5,7 @@ public class Test1 {
 		String s = "sfa";
 		int i = 12;
 		System.out.println(i);
+		System.out.println(s);
+		
 	}
 }
